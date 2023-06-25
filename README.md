@@ -30,7 +30,9 @@
  
   ## Project :
 
-  HR Analytics Dashboard
+  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using Tableau
+
+  [Check out my Project](https://github.com/AkashParashar1/HR-Analytics-Dashboard.git)
 
   ## Seeking opportunities:
 
@@ -39,8 +41,8 @@
  
   ## Contact Me :
 
-  - 📫 How to reach me  akashparashar502@gmail.com 
-  - 🤝 Connect with me on  https://www.linkedin.com/in/akashparashar
+  - 📫 Contact me via [Email](akashparashar502@gmail.com) 
+  - 🤝 Connect with me on  [LinkedIn](https://www.linkedin.com/in/akashparashar)
 
 <!---
 AkashParashar1/AkashParashar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
