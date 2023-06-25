@@ -41,7 +41,7 @@
  
   ## Contact Me :
 
-  - 📫 Contact me via [Email](akashparashar502@gmail.com) 
+  - 📫 Contact me via [Email](mailto:akashparashar502@gmail.com) 
   - 🤝 Connect with me on  [LinkedIn](https://www.linkedin.com/in/akashparashar)
 
 <!---
