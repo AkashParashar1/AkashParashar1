@@ -32,7 +32,7 @@
 
   ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using Power BI
 
-  [Check out my Project](https://github.com/AkashParashar1/HR-Analytics-Dashboard.git)
+  [Check out my Project](https://github.com/AkashParashar1/HR-ANALYTICS-DASHBOARD---POWER-BI.git)
 
   ## Seeking opportunities:
 
