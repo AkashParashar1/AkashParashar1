@@ -10,7 +10,7 @@
 
 - Data Analyst enthusiast with a passion for using data to solve problems.
 
-- Ask me about Tableau, SQL, Python, Statistics, and Google Sheets or Excel.
+- Ask me about Power BI, SQL, Microsoft Excel, Statistics, and Python.
 
 - Completed two internships in the data analytics domain.
 
@@ -22,22 +22,22 @@
 
   ## Skills :
 
-  - 📈 Tableau
+  - 📈 Power BI
   - ⌨️ SQL
+  - 🔢 Excel
   - 🐍 Python
   - 📊 Statistics
-  - 🔢 Google Sheets or Excel
  
   ## Project :
 
-  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using Tableau
+  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using Power BI
 
   [Check out my Project](https://github.com/AkashParashar1/HR-Analytics-Dashboard.git)
 
   ## Seeking opportunities:
 
   - Actively seeking data analyst positions to contribute my skills and knowledge in a professional environment.
-  - Open to full-time and part-time.
+  - Open to full-time.
  
   ## Contact Me :
 
