@@ -10,7 +10,7 @@
 
 - Data Analyst enthusiast with a passion for using data to solve problems.
 
-- Ask me about Power BI, SQL, Microsoft Excel, Statistics, and Python.
+- Ask me about Power BI, SQL, Python and Microsoft Excel.
 
 - Completed two internships in the data analytics domain.
 
