@@ -24,9 +24,8 @@
 
   - 📈 Power BI
   - ⌨️ SQL
-  - 🔢 Excel
   - 🐍 Python
-  - 📊 Statistics
+  - 🔢 Microsoft Excel
  
   ## Project :
 
