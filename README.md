@@ -12,7 +12,7 @@
 
 - Ask me about Power BI, SQL, Python and Microsoft Excel.
 
-- Completed a 3-months internships in the data analytics domain.
+- Completed a 3-months internship in the data analytics domain.
 
 - Recently graduated with a Bachelor's degree in Computer Science & Engineering (CSE).</p>
     <p></p>
