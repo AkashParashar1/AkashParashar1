@@ -12,7 +12,7 @@
 
 - Ask me about Power BI, SQL, Python and Microsoft Excel.
 
-  (CSE).</p>
+  </p>
     <p></p>
 </div>
 
