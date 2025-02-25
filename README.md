@@ -8,13 +8,11 @@
 
 ## About me :
 
-- Data Analyst enthusiast with a passion for using data to solve problems.
+- Data Analyst with a passion for using data to solve problems.
 
 - Ask me about Power BI, SQL, Python and Microsoft Excel.
 
-- Completed a 3-months internship in the data analytics domain.
-
-- Recently graduated with a Bachelor's degree in Computer Science & Engineering (CSE).</p>
+  (CSE).</p>
     <p></p>
 </div>
 
