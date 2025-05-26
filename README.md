@@ -8,33 +8,23 @@
 
 ## About me :
 
-- Data Analyst with a passion for using data to solve problems.
-
-- Ask me about Power BI, SQL, Python and Microsoft Excel.
-
-  </p>
+- Ask me about AWS S3, AWS Glue, Athena, QuickSight, SQL, Python, Pandas, Power BI and Microsoft Excel.
+</p>
     <p></p>
 </div>
 
-
-
   ## Skills :
 
-  - 📈 Power BI
+  - 📈 QuickSight
   - ⌨️ SQL
   - 🐍 Python
   - 🔢 Microsoft Excel
  
   ## Project :
 
-  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using Power BI
+  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using QuickSight
 
   [Check out my Project](https://github.com/AkashParashar1/HR-ANALYTICS-DASHBOARD---POWER-BI.git)
-
-  ## Seeking opportunities:
-
-  - Actively seeking data analyst positions to contribute my skills and knowledge in a professional environment.
-  - Open to full-time.
  
   ## Contact Me :
 
