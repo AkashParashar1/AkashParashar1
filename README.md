@@ -2,7 +2,6 @@
 
   ## Welcome to my GitHub Profile!
   
-    <p>
 
 ## About me :
 
