@@ -5,6 +5,7 @@
 
 ## About me :
 
+- Data Analyst.
 - Ask me about Power BI, SQL, Advanced Excel, Python, Pandas, and NumPy.
 </p>
     <p></p>
