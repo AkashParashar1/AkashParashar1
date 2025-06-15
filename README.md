@@ -1,10 +1,7 @@
   # Hey 👋 I’m Akash Parashar
 
   ## Welcome to my GitHub Profile!
-
-<div>
-    <img src="![image](https://github.com/user-attachments/assets/06a75a25-3ba1-4832-9d4c-a4028bbbf316)
-" alt="Profile Image" align="right" width="400"/>
+  
     <p>
 
 ## About me :
