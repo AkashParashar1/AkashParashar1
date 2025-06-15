@@ -8,21 +8,21 @@
 
 ## About me :
 
-- Ask me about AWS S3, AWS Glue, Athena, QuickSight, SQL, Python, Pandas, Power BI and Microsoft Excel.
+- Ask me about Power BI, SQL, Advanced Excel, Python, Pandas, and NumPy.
 </p>
     <p></p>
 </div>
 
   ## Skills :
 
-  - 📈 QuickSight
+  - 📈 Power BI
   - ⌨️ SQL
   - 🐍 Python
   - 🔢 Microsoft Excel
  
   ## Project :
 
-  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using QuickSight
+  ### HR Analytics Dashboard : A Complete Employee Data Analysis Project using Power BI
 
   [Check out my Project](https://github.com/AkashParashar1/HR-ANALYTICS-DASHBOARD---POWER-BI.git)
  
