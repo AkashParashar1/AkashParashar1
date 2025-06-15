@@ -3,7 +3,8 @@
   ## Welcome to my GitHub Profile!
 
 <div>
-    <img src="https://camo.githubusercontent.com/8a6eee3dd739725d66903bd7fa1d23a1af0547456f5a72277b85818c883b65b0/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Profile Image" align="right" width="400"/>
+    <img src="![image](https://github.com/user-attachments/assets/06a75a25-3ba1-4832-9d4c-a4028bbbf316)
+" alt="Profile Image" align="right" width="400"/>
     <p>
 
 ## About me :
